@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Game>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<link href="css/home-page.css" rel="stylesheet"></link>
+
+<div class="container">
+    <!--<h1 class="display-4">Welcome @ViewBag.Name</h1>
+    @for (int i = 0; i < 5; i++)
+    {
+        <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    }
+
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>-->
+
+    @foreach (var game in Model)
+    {
+        <div class="card">
+            <img class="card-img-top" src="" alt="" />
+            <div class="card-body">
+                <h5 class="card-title">@game.Name</h5>
+                <p class="card-text">@game.Description</p>
+                <a class="btn btn-success" asp-action="Details" asp-controller="Games" asp-route-id="@game.GameId">@(game.Price + " тг.")</a>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,44 @@
+[
+    {
+      "GameId": 1,
+      "Name": "Call of Duty. Modern Warfare",
+      "Description": "Cool FPS action game",
+      "Category": "FPS",
+      "Price": 15000.0
+    },
+    {
+      "GameId": 2,
+      "Name": "Diablo 3. Reaper of Souls",
+      "Description": "The legendary RPG game from Blizzard. Test",
+      "Category": "RPG",
+      "Price": 23000.00
+    },
+    {
+      "GameId": 3,
+      "Name": "Overwatch",
+      "Description": "Beatiful and dynamic FPS action game",
+      "Category": "FPS",
+      "Price": 5000.0
+    },
+    {
+      "GameId": 4,
+      "Name": "Civilization 6",
+      "Description": "The king of p2p strategy games",
+      "Category": "Strategy",
+      "Price": 2500.0
+    },
+    {
+      "GameId": 5,
+      "Name": "Star Craft",
+      "Description": "Awake your nastalgy and save the galaxy",
+      "Category": "RTS",
+      "Price": 1200.0
+    },
+    {
+      "GameId": 6,
+      "Name": "The Witcher 3",
+      "Description": "One of the best RPG games in open world",
+      "Category": "RPG",
+      "Price": 40000.00
+    }
+  ]

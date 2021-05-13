@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Abstract\" />
+    <Folder Include="Services\" />
+    <Folder Include="Stock\" />
+    <Folder Include="Views\Games\" />
+    <Folder Include="Views\Cart\" />
+  </ItemGroup>
+</Project>

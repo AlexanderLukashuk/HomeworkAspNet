@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{BAC0E519-459E-45EC-A0BD-3703267503DA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Abstract/IGameRepository.cs">
+    <Files>
+      <File FileName="Abstract/IGameRepository.cs" Line="17" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lesson_2" expanded="True">
+            <Node name="Lesson_2" expanded="True">
+              <Node name="Abstract" expanded="True">
+                <Node name="IGameRepository.cs" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Stock" expanded="True" />
+              <Node name="Storage" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Games" expanded="True" />
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lesson__2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
